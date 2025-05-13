@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Zanjad</h1>
 <h3 align="center">AI Engineer | Machine Learning Enthusiast | Data Scientist</h3>
 
 <p align="center">
@@ -7,12 +7,12 @@
 
 ---
 
-🔬 I’m currently working on **[Project or Research Topic]**  
+🔬 I’m currently working on **TelegramBot**  
 🌱 I’m currently learning **[Tool, Framework, or Concept]**  
 👯 I’m looking to collaborate on **AI/ML projects**  
 🤝 I’m looking for help with **[Specific topic or open source]**  
 💬 Ask me about **Deep Learning, NLP, and Generative AI**  
-📫 How to reach me: **your.email@example.com**  
+📫 How to reach me: **sakshizanjad0803@gmail.com**  
 📄 Know more about my experience: [LinkedIn](https://linkedin.com/in/yourusername)  
 ⚡ Fun fact: *Neurons in code fire faster when caffeinated ☕*
 
@@ -43,14 +43,14 @@
 
 ### 📂 Top Repositories
 
-- 🔬 [Project-AI](https://github.com/your-username/project-ai) - NLP or Computer Vision solution
-- 🤖 [ML-Toolkit](https://github.com/your-username/ml-toolkit) - Custom utilities for model training
+- 🔬 [ScriptSense](https://github.com/sappzzgithub/ScriptSense) - Predict personality traits from handwriting samples using CNN-based graphology
+- 🤖 [StreamPulse ](https://github.com/sappzzgithub/StreamPulse) - Real-Time E-Commerce Transactions Dashboard
 
 ---
 
 ### ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Latest article on AI deployment](https://medium.com/@yourhandle/your-post)
+- [The Foundations of Secure AI: Symmetric Encryption and Hashing Explained](https://medium.com/@sakshizanjad0803/the-foundations-of-secure-ai-symmetric-encryption-and-hashing-explained-959b7cbe38b6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -62,7 +62,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=repositories" target="_blank">View My Work</a> • 
-  <a href="mailto:your.email@example.com">Email</a> • 
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+  <a href="sakshizanjad0803@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/sakshi-zanjad-a036a7279/">LinkedIn</a>
 </p>
