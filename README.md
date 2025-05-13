@@ -32,15 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak stats"/>
-</p>
-
----
-
 ### 📂 Top Repositories
 
 - 🔬 [ScriptSense](https://github.com/sappzzgithub/ScriptSense) - Predict personality traits from handwriting samples using CNN-based graphology
@@ -62,6 +53,7 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/sappzzgithub?tab=repositories" target="_blank">View My Work</a> • 
   <a href="sakshizanjad0803@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/sakshi-zanjad-a036a7279/">LinkedIn</a>
 </p>
