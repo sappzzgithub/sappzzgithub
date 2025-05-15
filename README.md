@@ -9,7 +9,7 @@
 🤝 I’m looking for help with **[Specific topic or open source]**  
 💬 Ask me about **Deep Learning, NLP, and Generative AI**  
 📫 How to reach me: **sakshizanjad0803@gmail.com**  
-📄 Know more about my experience: [LinkedIn](https://linkedin.com/in/yourusername)  
+📄 Know more about my experience: [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sakshi-zanjad-a036a7279/))  
 ⚡ Fun fact: *Neurons in code fire faster when caffeinated ☕*
 
 ---
