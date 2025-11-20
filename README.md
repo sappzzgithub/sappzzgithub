@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sakshi Zanjad</h1>
-<h3 align="center">AI Engineer | Machine Learning Enthusiast | Data Scientist</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
 
 ---
 
-👯 I’m looking to collaborate on **AI/ML & Data Science projects**  
-💬 Ask me about **Deep Learning, NLP, and Generative AI**  
+👯 I’m looking to collaborate on **Data Science & Machine Learning projects**  
+💬 Ask me about **Machine Learning, Deep Learning, NLP & Generative AI**  
 📫 How to reach me: **sakshizanjad0803@gmail.com**  
 📄 Know more about my experience:  
 <a href="https://www.linkedin.com/in/sakshi-zanjad-a036a7279/" target="_blank">LinkedIn</a>  
@@ -27,45 +27,48 @@
 
 ---
 
-### 🚀 Skills
+### 🚀 Core Skills
 
-**Programming & Analytics**  
+**Programming & Analytics:**  
 Python | C  
 
-**AI/ML Tools & Frameworks**  
-TensorFlow | PyTorch | Scikit-learn | Keras | Apache Spark | Kafka | Streamlit | Hugging Face  
+**Machine Learning & AI:**  
+TensorFlow | PyTorch | Scikit-learn | Keras | Deep Learning | NLP | Generative AI | Hugging Face  
 
-**Cloud & DevOps**  
+**Big Data & Streaming:**  
+Apache Spark | Kafka  
+
+**Cloud & DevOps:**  
 Oracle Cloud Infrastructure (OCI) | AWS | Docker | GitHub | CI/CD  
 
-**Database Management**  
+**Database:**  
 MySQL  
 
-**Visualization Tools**  
+**Data Visualization:**  
 Power BI | Matplotlib | Seaborn | Plotly  
 
-**Soft Skills**  
+**Soft Skills:**  
 Leadership | Time Management | Creativity | Teamwork | Critical Thinking  
 
 ---
 
-### 📂 Top Repositories
+### 📂 Featured Data Science & ML Projects
 
 - 🔬 **ScriptSense**  
   https://github.com/sappzzgithub/ScriptSense  
-  *Predicts personality traits from handwriting samples using CNN-based graphology*
-
-- 🤖 **StreamPulse**  
-  https://github.com/sappzzgithub/StreamPulse  
-  *Real-time E-Commerce Transactions Dashboard*
+  *Handwriting-based personality prediction using CNN models*
 
 - 📦 **Expiry Risk Project**  
   https://github.com/sappzzgithub/Expiry_risk_project  
-  *Predicts product expiry risk to reduce waste and improve inventory decisions*
+  *ML model to predict product-expiry risk and improve inventory decisions*
+
+- 📊 **StreamPulse**  
+  https://github.com/sappzzgithub/StreamPulse  
+  *Real-time E-commerce analytics dashboard using streaming data*
 
 ---
 
-### ✍️ Blog Posts
+### ✍️ Blog Post
 
 - **The Foundations of Secure AI: Symmetric Encryption and Hashing Explained**  
   https://medium.com/@sakshizanjad0803/the-foundations-of-secure-ai-symmetric-encryption-and-hashing-explained-959b7cbe38b6
@@ -74,7 +77,7 @@ Leadership | Time Management | Creativity | Teamwork | Critical Thinking
 
 ### 💡 Quote
 
-> *"The future belongs to those who build it with code and creativity."*
+> *"Data is the new oil, but insight is the new gold."*
 
 ---
 
